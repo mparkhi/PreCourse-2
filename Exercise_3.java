@@ -1,4 +1,4 @@
-class LinkedList 
+class LinkedLists
 { 
     Node head; // head of linked list 
   
